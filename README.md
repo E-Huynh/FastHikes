@@ -9,7 +9,7 @@ Erik.W.Huynh@Gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/erik-huynh-228321196/)
 
-[Portfolio](https://e-huynh.github.io/updated_portfolio/)
+[Portfolio](https://e-huynh.github.io/portfolio-gram/)
 
 ## Project Description
 The purpose of this application is to provide a way for a user to quickly see what hikes are around them that they can get to, complete, and get back from in the time the specify.
